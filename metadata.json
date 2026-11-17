@@ -1,0 +1,6 @@
+{
+  "name": "GAMEVAULT",
+  "description": "Premium PC game store and curated digital marketplace featuring verified titles, detailed system requirements, and official release destinations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
